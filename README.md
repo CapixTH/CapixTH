@@ -48,6 +48,6 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
 - ✉️ Email: guibatista608@gmail.com
