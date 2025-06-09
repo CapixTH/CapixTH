@@ -4,7 +4,12 @@
   Software Engineering Student | Digital Solutions Explorer 💻
 </p>
 
----
+<div align="center">
+<p align="center">
+  <img height="380px" src="https://github.com/diogo0254jf/hr-system/blob/main/223790003-471211d6-dc89-4f96-882f-1e58ca0771fc.gif?raw=true" />
+</p>
+</div>
+
 
 ## About Me
 
