@@ -4,12 +4,7 @@
   Software Engineering Student | Digital Solutions Explorer 💻
 </p>
 
-<div align="center">
-<p align="center">
-  <img height="380px" src="https://github.com/diogo0254jf/hr-system/blob/main/223790003-471211d6-dc89-4f96-882f-1e58ca0771fc.gif?raw=true" />
-</p>
-</div>
-
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
 
 ## About Me
 
@@ -51,7 +46,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CapixTH&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>
 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
 ---
 
 ## Contact
