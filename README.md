@@ -51,6 +51,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CapixTH&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>
 
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
 ---
 
 ## Contact
