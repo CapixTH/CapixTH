@@ -12,7 +12,7 @@
 - 💼 Junior Systems Development Analyst
 - 🌱 Currently learning: React, Nest.js, and Databases   
 
----
+--- 
 
 ## Technologies
 
