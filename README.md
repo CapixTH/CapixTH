@@ -1,16 +1,16 @@
-<h1 align="center">Hi there! I'm Guilherme Batista 👋</h1> 
+<h1 align="center">Hi there! I'm Guilherme Batista 👋</h1>
 
 <p align="center">  
-  Software Engineering Student | Digital Solutions Explorer 💻  
+  Software Engineering Student | Digital Solutions Explorer 💻
 </p>
 
  ![github contribution grid snake animation](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
 
 ## About Me
  
-- 🎓 Software Engineering student at Centro Universitário Academia   
+- 🎓 Software Engineering student at Centro Universitário Academia
 - 💼 Junior Systems Development Analyst
-- 🌱 Currently learning: React, Nest.js, and Databases   
+- 🌱 Currently learning: React, Nest.js, and Databases
 
 --- 
 
