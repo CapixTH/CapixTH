@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Guilherme Batista 👋</h1> 
-
+ 
 <p align="center">   
   Software Engineering Student | Digital Solutions Explorer 💻 
 </p> 
