@@ -3,7 +3,7 @@
 <p align="center">     
   Software Engineering Student | Digital Solutions Explorer 💻      
 </p>    
-
+ 
  ![github contribution grid snake animation](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
    
 ## About Me     
