@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Guilherme Batista 👋</h1> 
  
 <p align="center">     
-  Software Engineering Student | Digital Solutions Explorer 💻      
+  Software Engineering Student | Digital Solutions Explorer 💻     
 </p>     
  
  ![github contribution grid snake animation](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
