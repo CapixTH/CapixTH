@@ -10,7 +10,7 @@
         
 - 🎓 Software Engineering student at Centro Universitário Academia    
 - 💼 Junior Systems Development Analyst  
-- 🌱 Currently learning: React, Nest.js, and Databases 
+- 🌱 Currently learning: Node.js, Nest.js, and Databases 
     
 ---  
 
