@@ -54,15 +54,18 @@ status: Exploring digital solutions and building cool stuff! 🌱
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CapixTH&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapixTH&layout=compact&langs_count=8&theme=dracula&border_radius=10"/>
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CapixTH&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CapixTH&layout=compact&theme=dracula&langs_count=8)
+
+</div>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CapixTH&theme=dracula&border_radius=10)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CapixTH&theme=dracula&hide_border=true&background=0d1117" alt="GitHub Streak Stats"/>
 
 </div>
 
