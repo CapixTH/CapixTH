@@ -46,6 +46,8 @@ status: Exploring digital solutions and building cool stuff! 🌱
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
 </div>
 
@@ -58,8 +60,6 @@ status: Exploring digital solutions and building cool stuff! 🌱
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CapixTH&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CapixTH&layout=compact&theme=dracula&langs_count=8)
-
-</div>
 
 </div>
 
