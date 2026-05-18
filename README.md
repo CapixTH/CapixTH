@@ -89,6 +89,9 @@ status: Exploring digital solutions and building cool stuff! 🌱
 
 </div>
 
+<div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://guilherme-batista.vercel.app/)
+</div>
 ---
 
 <div align="center">
